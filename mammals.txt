@@ -3,3 +3,4 @@ Eliphant
 Lion
 Seal
 Springbok
+Zebra
