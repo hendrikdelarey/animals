@@ -4,3 +4,4 @@ Lion
 Seal
 Springbok
 Zebra
+Human
