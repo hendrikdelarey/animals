@@ -1,8 +1,3 @@
 Leapard
 Eliphant
-Lion
-Seal
-Springbok
-Zebra
-Human
-Ducks
+
